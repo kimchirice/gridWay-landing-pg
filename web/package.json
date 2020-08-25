@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "sanity-nextjs-landing-pages-web",
+  "name": "gridway-landing-pages-web",
   "version": "1.0.9",
-  "author": "Sanity <hello@sanity.io>",
+  "author": "Kimchi Rice <kimchi@u12.co>",
   "scripts": {
     "dev": "next",
     "build": "next build && next export && node exportSitemap.js",
